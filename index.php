@@ -85,10 +85,10 @@ Any attempt at using this website will result in DMCA removal.
 		<script type="text/javascript" src="urlRouting.js"></script>
 		  <script>
 		    urlRoute
-		      .folderUrl('/_$flare_')
+		      .folderUrl('/v1')
 		      .setPreviousCode('Flare.Home')
-		      .setBaseUrl('/_$flare_/')
-		      .checkCurrent('/_$flare_/');
+		      .setBaseUrl('/v1/')
+		      .checkCurrent('/v1/');
 				setTimeout(loadStats, 500);
 				setInterval(updateStats, 1000);
             </script>
