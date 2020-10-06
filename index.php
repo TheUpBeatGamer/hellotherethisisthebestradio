@@ -87,8 +87,8 @@ Any attempt at using this website will result in DMCA removal.
 		    urlRoute
 		      .folderUrl('/v1')
 		      .setPreviousCode('Flare.Home')
-		      .setBaseUrl('/alinity.space/v1/')
-		      .checkCurrent('/alinity.space/v1/');
+		      .setBaseUrl('https://alinity.space/v1/')
+		      .checkCurrent('https://alinity.space/v1/');
 				setTimeout(loadStats, 500);
 				setInterval(updateStats, 1000);
             </script>
