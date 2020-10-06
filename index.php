@@ -85,7 +85,7 @@ Any attempt at using this website will result in DMCA removal.
 		<script type="text/javascript" src="urlRouting.js"></script>
 		  <script>
 		    urlRoute
-		      .folderUrl('/v1')
+		      .folderUrl('https://alinity.space/v1')
 		      .setPreviousCode('Flare.Home')
 		      .setBaseUrl('/v1/')
 		      .checkCurrent('/v1/');
