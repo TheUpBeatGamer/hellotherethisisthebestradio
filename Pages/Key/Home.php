@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-6">
-            <div class="box">
+            <div class="sliderbox">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
                 <ol class="carousel-indicators">
@@ -42,15 +42,15 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                    <img src="https://keyfm.net/splash/assets/images/apply.svg" alt="Los Angeles">
+                    <img src="https://keyfm.net/splash/assets/images/apply.svg">
                     </div>
 
                     <div class="item">
-                    <img src="https://keyfm.net/splash/assets/images/apply.svg" alt="Chicago">
+                    <img src="https://keyfm.net/splash/assets/images/apply.svg">
                     </div>
 
                     <div class="item">
-                    <img src="https://keyfm.net/splash/assets/images/apply.svg" alt="New York">
+                    <img src="https://keyfm.net/splash/assets/images/apply.svg">
                     </div>
                 </div>
 
