@@ -24,14 +24,15 @@
     </div>
 
     <div class="row">
-        <div class="col-sm-12 col-md-4">
-            one of three
+        <div class="col-sm-12 col-md-8">
+            <div class="box">
+
+            </div>
         </div>
         <div class="col-sm-12 col-md-4">
-            one of three
-        </div>
-        <div class="col-sm-12 col-md-4">
-            one of three
+            <div class="box">
+
+            </div>
         </div>
     </div>
 </div>
