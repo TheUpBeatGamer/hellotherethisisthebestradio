@@ -93,8 +93,8 @@
             <div class="subline-title">Latest Media</div>
             <div class="subline"></div>
                 <div class="col-sm-12 col-md-6">
-                    <div class="box">
-
+                    <div class="news-box">
+                        <img src="img/mcupdate.jpg">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
