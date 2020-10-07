@@ -173,6 +173,19 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     font-size: 12px;
 }
 
+.subline-title {
+    color: white;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.subline {
+    background: white;
+    height: 2px;
+    width: 100%;
+}
+
 body {
     background-color: #0e1014;
 }
