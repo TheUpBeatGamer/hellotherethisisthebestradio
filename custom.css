@@ -340,13 +340,6 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     font-size: 12px;
 }
 
-.discordbox > img {
-    text-align: center;
-    color: white;
-    width: 70%;
-    padding: 5px 5px 5px 5px;
-}
-
 .discordbox > h1 {
     margin-top: -2px;
     text-align: center;
