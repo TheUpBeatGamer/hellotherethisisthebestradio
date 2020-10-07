@@ -23,7 +23,7 @@
         </div>
     </div>
 
-    <div style ="padding-top: 30px;" class="row">
+    <div style ="padding-top: 25px;" class="row">
         <div class="col-sm-12 col-md-3">
             <div class="box">
 
@@ -65,7 +65,7 @@
                     </a>
                 </div>
             </div>
-            <div style="padding-top: 30px;" class="row">
+            <div style="padding-top: 25px;" class="row">
                 <div class="col-sm-12 col-md-6">
                     <div class="box">
 
