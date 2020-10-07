@@ -25,7 +25,7 @@
 
     <div style ="padding-top: 25px;" class="row">
         <div class="col-sm-12 col-md-3">
-        <div class="subline-title"></div>
+        <div class="subline-title">Recently Played</div>
         <div class="subline"></div>
             <div class="box">
 
