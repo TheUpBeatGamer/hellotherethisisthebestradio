@@ -191,7 +191,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 }
 
 .rpbox {
-    padding: 10px 15px;
+    padding: 4px 10px 10px 5px;
     border-radius: 40px;
     width: 100%;
     background: #0D0E10;
@@ -200,24 +200,25 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     font-family: Tahoma, sans-serif;
     color: white;
     font-size: 12px;
+    height: 55px;
 }
 
 .rpbox > img {
     border-radius: 50%;
     border: 1px solid #1A1B1C;
     color: white;
-    width: 30px;
+    width: 45px;
 }
 
 .rpbox > h1 {
     text-align: center;
     color: white;
-    margin-top: -50px;
+    margin-top: -40px;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 300;
     font-family: Roboto;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 .rpbox > h2 {
@@ -228,7 +229,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     font-weight: 500;
     font-family: Roboto;
     letter-spacing: 2px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 body {
