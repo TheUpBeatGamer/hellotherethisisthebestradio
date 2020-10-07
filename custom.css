@@ -276,6 +276,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 }
 
 .applybox {
+    border-radius: 10px;
     width: 100%;
     background: #0D0E10;
     text-shadow: 0px 1px #000;
@@ -306,7 +307,8 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 .applybox2 {
     text-align: center;
     padding: 3px;
-    width: 100%;
+    width: 90%;
+    border-radius: 40px;
     background: #0D0E10;
     text-shadow: 0px 1px #000;
     border: 1px solid #1A1B1C;

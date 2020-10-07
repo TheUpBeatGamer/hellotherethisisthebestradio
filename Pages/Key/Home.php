@@ -109,7 +109,7 @@
         <div class="col-sm-12 col-md-3">
             <div style="margin-bottom: 10px;" class="applybox">
                 <h1>We Want You!</h1>
-                <h2>Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</h2>
+                <h2>We accept everyone from the best of the best to people brand new to this community, come give it a shot! We accept everyone on their first shot!</h2>
                 <div class="applybox2">
                     <h1>Apply Now</h1>
                 </div>
