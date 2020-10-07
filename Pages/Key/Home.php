@@ -64,6 +64,18 @@
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
+                <div style="padding-top: 30px;" class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="box">
+
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="box">
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="col-sm-12 col-md-3">
