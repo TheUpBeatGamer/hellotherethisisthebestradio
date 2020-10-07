@@ -163,8 +163,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     margin-left: 20px;
 }
 
-.sliderbox {
-    padding: 10px 10px;
+.slider-box {
     border-radius: 40px;
     width: 100%;
     background: #0D0E10;
