@@ -134,6 +134,12 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 	font-size:12px;
 }
 
+.nnlbox > img {
+    border-radius: 50%;
+    border: 1px solid #1A1B1C;
+    color: white;
+}
+
 body {
     background-color: #0e1014;
 }
