@@ -42,15 +42,15 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                        <img src="https://keyfm.net/splash/assets/images/social.svg">
+                            <img src="img/discordcommunity.svg">
                         </div>
 
                         <div class="item">
-                        <img src="https://keyfm.net/splash/assets/images/social.svg">
+                            <img src="img/discordcommunity.svg">
                         </div>
 
                         <div class="item">
-                        <img src="https://keyfm.net/splash/assets/images/social.svg">
+                            <img src="img/discordcommunity.svg">
                         </div>
                     </div>
 
