@@ -249,7 +249,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     width: 100%;
 }
 
-news-box > h1 {
+.news-box > h1 {
     text-align: center;
     color: white;
     text-transform: uppercase;
