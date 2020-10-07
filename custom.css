@@ -149,6 +149,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     font-size: 12px;
     font-weight: 300;
     font-family: Roboto;
+    margin-left: 20px;
 }
 
 .nnlbox > h2 {
@@ -159,6 +160,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     font-weight: 500;
     font-family: Roboto;
     letter-spacing: 2px;
+    margin-left: 20px;
 }
 
 body {
