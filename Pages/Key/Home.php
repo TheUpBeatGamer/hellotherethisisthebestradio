@@ -22,4 +22,16 @@
             </div>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-sm-12 col-md-4">
+            one of three
+        </div>
+        <div class="col-sm-12 col-md-4">
+            one of three
+        </div>
+        <div class="col-sm-12 col-md-4">
+            one of three
+        </div>
+    </div>
 </div>

@@ -51,8 +51,6 @@ Any attempt at using this website will result in DMCA removal.
 					</div>
 				</div>
 			</li>
-			<li class="nav-icon" style="float:right;"><a href='Key.Register' class='web-page'><b>Register</b></a></li>
-            <li class="nav-icon" style="float:right;"><a href='Key.Login' class='web-page'><b>Login</b></a></li>
     	</div>
 	</nav>
 	<div class="header">
