@@ -142,7 +142,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 }
 
 .nnlbox > h1 {
-    display: inline-table;
+    display: inline-block;
     text-align: center;
     color: white;
     font-size: 12px;
