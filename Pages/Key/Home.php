@@ -115,7 +115,7 @@
                 </div>
             </div>
             <div style="margin-bottom: 10px;" class="discordbox">
-                <center><img style="width: 70%; padding: 5px 5px 5px 5px;" src="img/discordWords.svg"></center>
+                <center><img style="width: 70%; padding: 8px 8px 8px 8px;" src="img/discordWords.svg"></center>
                 <h1>100 Online</h1>
                 <div class="discordbox2">
                     <h1>Join Discord</h1>
