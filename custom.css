@@ -206,7 +206,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     border-radius: 50%;
     border: 1px solid #1A1B1C;
     color: white;
-    width: 60px;
+    width: 30px;
 }
 
 .rpbox > h1 {
@@ -224,7 +224,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     color: white;
     text-align: center;
     margin-top: -8px;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
     font-family: Roboto;
     letter-spacing: 2px;
