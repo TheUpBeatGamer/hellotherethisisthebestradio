@@ -91,7 +91,7 @@
             </div>
             <div style="padding-top: 25px;" class="row">
             <div style="margin-left: 17px;" class="subline-title">Latest Media</div>
-            <div style="width: 93%; margin-left: 17px;" class="subline"></div>
+            <div style="width: 93.5%; margin-left: 17px;" class="subline"></div>
                 <div class="col-sm-12 col-md-6">
                     <div class="news-box">
                         <img src="img/mcupdate.jpg">
