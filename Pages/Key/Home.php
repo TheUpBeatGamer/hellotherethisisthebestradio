@@ -107,8 +107,8 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-3">
-            <div class="box">
-
+            <div class="ad-box">
+                <img src="img/twoquid.svg">
             </div>
         </div>
     </div>
