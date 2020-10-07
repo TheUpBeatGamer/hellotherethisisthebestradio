@@ -24,7 +24,7 @@ var urlRoute = {
             document.URL;
             var t = document.URL.replace(this.baseUrl, "");
             this.loadPage(t);
-        } else this.loadPage("Flare.Home")
+        } else this.loadPage("Key.Home")
     },
     loadPage: function(e) {
         "/" != e.substring(0, 1) && (e = "/" + e), pathGlobal = e;
@@ -37,7 +37,7 @@ var urlRoute = {
         $("#content").addClass("loading"), urlRoute.loadPageContent(l, `${t[0]}.${o[0]}`, r), "function" == typeof destroy && destroy(), window.history.pushState(null, null, this.folderUrl + e)
     },
     loadPageContent: function(e, o, r) {
-        console.log(`[FLARE] Testing URL ${r}`);
+        console.log(`[KeyFM] Testing URL ${r}`);
         $.ajax({
             url: 'scripts/testPage.php?page=' + r,
             type: "get",
@@ -48,7 +48,7 @@ var urlRoute = {
                       type: "get",
                       success: function(e) {
                           this.setPreviousCode = o;
-                          console.log(`[FLARE] Loading page ${o}`);
+                          console.log(`[KeyFM] Loading page ${o}`);
                           $("#content").removeClass("loading").html(e);
                       },
                       error: function() {
@@ -65,7 +65,7 @@ var urlRoute = {
         });
     },
     pageError: function() {
-      urlRoute.loadPage('Flare.Home')
+      urlRoute.loadPage('Key.Home')
     }
 };
 $("body").on("click", "a", function(e) {
