@@ -90,6 +90,8 @@
                 </div>
             </div>
             <div style="padding-top: 25px;" class="row">
+            <div class="subline-title">Latest Media</div>
+            <div class="subline"></div>
                 <div class="col-sm-12 col-md-6">
                     <div class="box">
 
