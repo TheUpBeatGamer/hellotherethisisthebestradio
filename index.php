@@ -42,7 +42,7 @@ Any attempt at using this website will result in DMCA removal.
 		<div class="container">
 			<li class="nav-icon"><a href='Key.Home' class='web-page'><i class="fa fa-home" aria-hidden="true"></i></a></li>
 			<li class="dropbox-handle nav-icon" style="margin-left:-15px;">
-				<a>Flare &nbsp;&nbsp;<i class="fa fa-caret-down" style="color:white;"></i></a>
+				<a>Key &nbsp;&nbsp;<i class="fa fa-caret-down" style="color:white;"></i></a>
 				<div class="dropbox-cont">
 					<div class="drop-box">
 						<ul>
