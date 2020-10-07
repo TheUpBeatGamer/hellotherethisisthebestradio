@@ -296,6 +296,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 }
 
 .applybox > h2 {
+    margin-top: -2px;
     text-align: center;
     color: white;
     text-transform: uppercase;
