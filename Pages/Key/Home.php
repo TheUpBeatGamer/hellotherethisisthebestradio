@@ -24,12 +24,17 @@
     </div>
 
     <div style ="padding-top: 30px;" class="row">
-        <div class="col-sm-12 col-md-8">
+        <div class="col-sm-12 col-md-3">
             <div class="box">
 
             </div>
         </div>
-        <div class="col-sm-12 col-md-4">
+        <div class="col-sm-12 col-md-6">
+            <div class="box">
+
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-3">
             <div class="box">
 
             </div>
