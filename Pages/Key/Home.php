@@ -27,8 +27,30 @@
         <div class="col-sm-12 col-md-3">
         <div class="subline-title">Recently Played</div>
         <div class="subline"></div>
-            <div class="box">
-
+            <div class="rpbox">
+                <img src="https://owncloud.damonon.yt/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdefault.png&c=8d0c8e9c3d70d0a16d401ad4ce89fd28&x=1920&y=1920&a=1&t=KdHTOy2XiIjB5CP">
+                <h1>SONG ARTIST</h1>
+                <h2>SONG NAME</h2>
+            </div>
+            <div class="rpbox">
+                <img src="https://owncloud.damonon.yt/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdefault.png&c=8d0c8e9c3d70d0a16d401ad4ce89fd28&x=1920&y=1920&a=1&t=KdHTOy2XiIjB5CP">
+                <h1>SONG ARTIST</h1>
+                <h2>SONG NAME</h2>
+            </div>
+            <div class="rpbox">
+                <img src="https://owncloud.damonon.yt/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdefault.png&c=8d0c8e9c3d70d0a16d401ad4ce89fd28&x=1920&y=1920&a=1&t=KdHTOy2XiIjB5CP">
+                <h1>SONG ARTIST</h1>
+                <h2>SONG NAME</h2>
+            </div>
+            <div class="rpbox">
+                <img src="https://owncloud.damonon.yt/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdefault.png&c=8d0c8e9c3d70d0a16d401ad4ce89fd28&x=1920&y=1920&a=1&t=KdHTOy2XiIjB5CP">
+                <h1>SONG ARTIST</h1>
+                <h2>SONG NAME</h2>
+            </div>
+            <div class="rpbox">
+                <img src="https://owncloud.damonon.yt/index.php/apps/files_sharing/ajax/publicpreview.php?file=%2F%2Fdefault.png&c=8d0c8e9c3d70d0a16d401ad4ce89fd28&x=1920&y=1920&a=1&t=KdHTOy2XiIjB5CP">
+                <h1>SONG ARTIST</h1>
+                <h2>SONG NAME</h2>
             </div>
         </div>
         <div class="col-sm-12 col-md-6">
