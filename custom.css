@@ -341,9 +341,10 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 }
 
 .discordbox > img {
-    vertical-align: middle;
+    text-align: center;
     color: white;
-    width: 85%;
+    width: 70%;
+    padding: 5px 5px 5px 5px;
 }
 
 .discordbox > h1 {
