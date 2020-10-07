@@ -329,6 +329,56 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     margin-top: 10px;
 }
 
+.discordbox {
+    border-radius: 10px;
+    width: 100%;
+    background: #0D0E10;
+    text-shadow: 0px 1px #000;
+    border: 1px solid #1A1B1C;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-size: 12px;
+}
+
+.discordbox > img {
+    text-align: center;
+    color: white;
+    width: 90%;
+}
+
+.discordbox > h1 {
+    margin-top: -2px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 300;
+    font-family: Roboto;
+}
+
+.discordbox2 {
+    text-align: center;
+    width: 90%;
+    margin: 8px;
+    border-radius: 40px;
+    background: #0D0E10;
+    text-shadow: 0px 1px #000;
+    border: 1px solid #1A1B1C;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-size: 12px;
+    
+}
+
+.discordbox2 > h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Roboto;
+    margin-top: 10px;
+}
 
 
 body {

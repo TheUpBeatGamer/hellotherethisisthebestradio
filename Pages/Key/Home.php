@@ -114,8 +114,12 @@
                     <h1>Apply Now</h1>
                 </div>
             </div>
-            <div style="margin-bottom: 10px;" class="adbox">
-                <img src="img/twoquid.svg">
+            <div style="margin-bottom: 10px;" class="discordbox">
+                <center><img src="https://keyfm.net/splash/assets/images/discordWords.svg"></center>
+                <h1>100 Online</h1>
+                <div class="discordbox2">
+                    <h1>Join Discord</h1>
+                </div>
             </div>
             <div class="adbox">
                 <img src="img/twoquid.svg">
