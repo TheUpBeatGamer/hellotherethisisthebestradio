@@ -107,6 +107,12 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-3">
+            <div style="margin-bottom: 10px;" class="adbox">
+                <img src="img/twoquid.svg">
+            </div>
+            <div style="margin-bottom: 10px;" class="adbox">
+                <img src="img/twoquid.svg">
+            </div>
             <div class="adbox">
                 <img src="img/twoquid.svg">
             </div>
