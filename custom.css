@@ -275,6 +275,57 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     width: 100%;
 }
 
+.applybox {
+    width: 100%;
+    background: #0D0E10;
+    text-shadow: 0px 1px #000;
+    border: 1px solid #1A1B1C;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-size: 12px;
+}
+
+.applybox > h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Roboto;
+}
+
+.applybox > h2 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 300;
+    font-family: Roboto;
+}
+
+.applybox2 {
+    text-align: center;
+    padding: 3px;
+    width: 100%;
+    background: #0D0E10;
+    text-shadow: 0px 1px #000;
+    border: 1px solid #1A1B1C;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-size: 12px;
+}
+
+.applybox2 > h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: Roboto;
+}
+
+
+
 body {
     background-color: #0e1014;
 }

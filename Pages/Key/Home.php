@@ -107,8 +107,12 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-3">
-            <div style="margin-bottom: 10px;" class="adbox">
-                <img src="img/twoquid.svg">
+            <div style="margin-bottom: 10px;" class="applybox">
+                <h1>We Want You!</h1>
+                <h2>Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</h2>
+                <div class="applybox2">
+                    <h1>Apply Now</h1>
+                </div>
             </div>
             <div style="margin-bottom: 10px;" class="adbox">
                 <img src="img/twoquid.svg">
