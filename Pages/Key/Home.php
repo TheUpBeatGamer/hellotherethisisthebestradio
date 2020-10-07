@@ -42,15 +42,15 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                    <img src="la.jpg" alt="Los Angeles">
+                    <img src="https://keyfm.net/splash/assets/images/apply.svg" alt="Los Angeles">
                     </div>
 
                     <div class="item">
-                    <img src="chicago.jpg" alt="Chicago">
+                    <img src="https://keyfm.net/splash/assets/images/apply.svg" alt="Chicago">
                     </div>
 
                     <div class="item">
-                    <img src="ny.jpg" alt="New York">
+                    <img src="https://keyfm.net/splash/assets/images/apply.svg" alt="New York">
                     </div>
                 </div>
 
