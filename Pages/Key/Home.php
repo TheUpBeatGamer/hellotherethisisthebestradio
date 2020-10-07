@@ -99,8 +99,9 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
-                    <div class="box">
-
+                    <div class="news-box">
+                        <img src="img/mcupdate.jpg">
+                        <h1>Minecraft Caves Update!</h1>
                     </div>
                 </div>
             </div>
