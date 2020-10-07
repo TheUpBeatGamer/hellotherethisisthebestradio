@@ -143,6 +143,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 
 .nnlbox > h1 {
     display: inline-table;
+    text-align: center;
     color: white;
     font-size: 12px;
     font-weight: 300;
@@ -150,8 +151,9 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 }
 
 .nnlbox > h2 {
-    display: inline-table;
+    display: inline-block;
     color: white;
+    text-align: center;
     font-size: 22px;
     font-weight: 500;
     font-family: Roboto;
