@@ -247,6 +247,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
     border: 1px solid #1A1B1C;
     color: white;
     width: 100%;
+    margin-bottom: -8px;
 }
 
 .news-box > h1 {
