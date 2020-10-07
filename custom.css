@@ -182,7 +182,7 @@ nav.navigationbar li.dropbox-handle:hover > .dropbox-cont {
 
 .subline {
     border-radius: 10px;
-    padding-bottom: 25px;
+    margin-bottom: 10px;
     background: white;
     height: 2px;
     width: 100%;
